@@ -1,4 +1,8 @@
-# Names Entity Recognition from Online News
+# Online News Named Entity Recognition
+
+This project aimed to create a series of models for the extraction of Named Entities (People, Locations, Organizations, Dates) from news headlines obtained online. We created two models: a traditional Natural Processing Language Model using Maximum Entropy, and a Deep Neural Network Model using pre-trained word embeddings. Accuracy results of both models show similar performance, but the requirements and limitations of both models are different and can help determine what type of model is best suited for specific use cases. 
+
+This project was completed as part of the DS8008 Natural Language Processing Course at the Masters in Data Science Program at Ryerson University in Toronto, Ontario during the months of January through April 2018. 
 
 ## Named Entity Extraction
 * Subtask of Information Extraction that seeks to locate and classify named entities in text into pre-defined categories: persons, organizations, locations”
